@@ -19,7 +19,7 @@ Students interested in data analysis and social science, regardless of their maj
 10. **Regression Discontinuity Design** (2 hours)
 
 # Recommended Textbooks
-* [*Mostly Harmless Econometrics: An Empiricist's Companion*](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics)
-* [*Vital Statistics: Probability and Statistics for Economics and Business*](https://www.amazon.com/Vital-Statistics-Probability-Economics-Business/dp/0190668083)
-* [*Econometrics*](https://press.princeton.edu/books/hardcover/9780691235899/econometrics)
-* [*Using Python for Introductory Econometrics*](https://www.amazon.com/Using-Python-Introductory-Econometrics-Florian/dp/B08924H17Y)
+* [*Mostly Harmless Econometrics: An Empiricist's Companion*](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics) (Angrist & Pischke, 2009)
+* [*Vital Statistics: Probability and Statistics for Economics and Business*](https://www.amazon.com/Vital-Statistics-Probability-Economics-Business/dp/0190668083) (Sandholm & Saraniti, 2018)
+* [*Econometrics*](https://press.princeton.edu/books/hardcover/9780691235899/econometrics) (Hansen, 2022)
+* [*Using Python for Introductory Econometrics*](https://www.amazon.com/Using-Python-Introductory-Econometrics-Florian/dp/B08924H17Y) (Heiss & Brunner, 2020)
