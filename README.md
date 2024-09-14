@@ -7,7 +7,7 @@ Students interested in data analysis and social science, regardless of their maj
 
 # Content
 1. **Probability Theory and Descriptive Statistics** (4 hours)
-    * Introduction to *Measurable Society*
+    * Introduction to *Measurable Society* ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20240914.1_Measurable_Society.pdf))
     * Probability: Definitions and Axioms
 3. **Inferential Statistics and Regression Model** (4 hours)
 4. **Randomized Control Trial** (4 hours)
