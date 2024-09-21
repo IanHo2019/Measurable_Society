@@ -1,3 +1,5 @@
+<img src="./Course_Cover.jpg" title="Welcome to Measurable Society!" alt="Welcome to Measurable Society!" style="width:100%"/>
+
 # Introduction
 "Measurable Society" is a public elective course at Chengdu Neusoft University, designed to show undergraduate students the baisc statistical tools and their applications. This course will also teach students how to apply some popular statistical methods to analyze major issues in today's society.
 
