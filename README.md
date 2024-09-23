@@ -1,11 +1,11 @@
 <img src="./Course_Cover.jpg" title="Welcome to Measurable Society!" alt="Welcome to Measurable Society!" style="width:100%"/>
 
 # Introduction
-"Measurable Society" is a public elective course at Chengdu Neusoft University, designed to show undergraduate students the baisc statistical tools and their applications. This course will also teach students how to apply some popular statistical methods to analyze major issues in today's society.
+"Measurable Society" is a public elective course at Chengdu Neusoft University, designed to show undergraduate students the basic statistical concepts, some popular inferential methods, and their applications in analyzing today's social issues.
 
-The course will be taught through a combination of theories and cases, allowing students to understand the principles of statistics and at the same time understand the application of statistical methods in analyzing social issues. The real-life cases included in this course cover a wide range of topics, such as value of education, workplace wellness, social network, etc., and involve research projects from the world's top scholars (such as Nobel Prize laureate [Joshua D. Angrist](https://economics.mit.edu/people/faculty/josh-angrist)) to help students gain an in-depth understanding of how a social issue is *measured* and analyzed. In addition, this course provides students with new ideas, paves the way for their future dissertations, and cultivate students' independent thinking and data analysis skills.
+The course will be taught through a combination of theories and cases, allowing students to understand the principles of statistics and at the same time understand the application of regression models. The real-life cases cover a wide range of topics, such as return on education, workplace wellness, social network, etc., and involve research projects from the world's top scholars (such as Nobel Prize laureate [Joshua D. Angrist](https://economics.mit.edu/people/faculty/josh-angrist)) to help students gain an in-depth understanding of how a social issue is *measured* and analyzed. In addition, this course provides students with new ideas, paves the way for their future dissertations, and cultivate students' independent thinking and data analysis skills.
 
-Students interested in data analysis and social science, regardless of their majors, are welcome to take this course. Let us immerse ourselves in the wonderful world of statistics and social sciences and explore the mysterious stories behind the data!
+Students interested in data analysis and social science, regardless of their majors, are welcome to take this course. Let us immerse ourselves in the wonderful world of social sciences and explore the mysterious stories behind the data!
 
 # Content
 1. **Probability Theory and Descriptive Statistics** (5 hours)
