@@ -8,14 +8,15 @@ The course will be taught through a combination of theories and cases, allowing 
 Students interested in data analysis and social science, regardless of their majors, are welcome to take this course. Let us immerse ourselves in the wonderful world of statistics and social sciences and explore the mysterious stories behind the data!
 
 # Content
-1. **Probability Theory and Descriptive Statistics** (4 hours)
+1. **Probability Theory and Descriptive Statistics** (5 hours)
     * Introduction to *Measurable Society* ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20240914.1_Measurable_Society.pdf))
-    * Probability: Definitions and Axioms
+    * Probability: Definitions and Axioms ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20240923.1_Probability_Definitions_and_Axioms.pdf))
+    * Random Variable: Definitions and Characterization ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20240923.2_Definition_and_Characterization_of_RV.pdf))
 3. **Inferential Statistics and Regression Model** (4 hours)
 4. **Randomized Control Trial** (4 hours)
 5. **Instrumental Variable** (4 hours)
 6. **Binary Choice Model** (2 hours)
-7. **Panel Data and Fixed Effects** (4 hours)
+7. **Panel Data and Fixed Effects** (3 hours)
 8. **Event Study** (2 hours)
 9. **Difference-in-Differences and Triple Differences** (6 hours)
 10. **Regression Discontinuity Design** (2 hours)
