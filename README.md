@@ -16,6 +16,7 @@ Students interested in data analysis and social science, regardless of their maj
 3. **Inferential Statistics and Regression Model** (5 hours)
     * Sampling and Estimation ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20240930.2_Sampling_and_Estimation.pdf))
     * Conditional Expectation and Linear Model ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241014_CEF_and_Linear_Model.pdf))
+    * Ordinary Least Squares ([Python](https://github.com/IanHo2019/Measurable_Society/blob/main/2024.10.21_Coding/Linear_Models.ipynb))
 5. **Randomized Control Trial** (4 hours)
 6. **Instrumental Variable** (4 hours)
 7. **Binary Choice Model** (2 hours)
