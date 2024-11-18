@@ -30,7 +30,10 @@ Students interested in data analysis and social science, regardless of their maj
    * Videos:
      * [Is a Degree Worth the Financial Strain?](https://www.youtube.com/watch?v=tk_Iie0ZyAk)
 5. **Binary Choice Model** (2 hours)
-   * Case Study: [*Ruhm & Black (2002)*](https://doi.org/10.1016/S0167-6296(02)00033-4)
+   * Case Study: [*Ruhm & Black (2002)*](https://doi.org/10.1016/S0167-6296(02)00033-4) ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241118_Drinking_and_Economic_Downturn.pdf))
+   * Videos:
+     * [How Does Alcohol Make You Drunk?](https://www.youtube.com/watch?v=gCrmFbgT37I)
+     * [How Does Alcohol Cause Blackouts?](https://www.youtube.com/watch?v=rkXMdJY1SXQ)
 6. **Panel Data and Fixed Effects** (2 hours)
 7. **Event Study** (2 hours)
 8. **Difference-in-Differences and Triple Differences** (6 hours)
