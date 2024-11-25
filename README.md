@@ -26,18 +26,18 @@ Students interested in data analysis and social science, regardless of their maj
      * [UIUC Campus Tour](https://www.youtube.com/watch?v=8Sr691Jfu5U)
 4. **Instrumental Variable** (4 hours)
    * Case Study: [*Angrist & Krueger (1991)*](https://doi.org/10.2307/2937954) ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241111_Return_to_Education.pdf))
-   * Case Study: [*Nakamura, Sigurdsson & Steinsson (2022)*](https://doi.org/10.1093/restud/rdab062)
+   * Case Study: [*Nakamura, Sigurdsson & Steinsson (2022)*](https://doi.org/10.1093/restud/rdab062) ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241125_Gift_of_Moving.pdf))
    * Videos:
      * [Is a Degree Worth the Financial Strain?](https://www.youtube.com/watch?v=tk_Iie0ZyAk)
+     * [1973 Iceland Volcanic Eruption](https://www.youtube.com/watch?v=ghl33n26d44)
 5. **Binary Choice Model** (2 hours)
    * Case Study: [*Ruhm & Black (2002)*](https://doi.org/10.1016/S0167-6296(02)00033-4) ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241118_Drinking_and_Economic_Downturn.pdf))
    * Videos:
      * [How Does Alcohol Make You Drunk?](https://www.youtube.com/watch?v=gCrmFbgT37I)
      * [How Does Alcohol Cause Blackouts?](https://www.youtube.com/watch?v=rkXMdJY1SXQ)
-6. **Panel Data and Fixed Effects** (2 hours)
-7. **Event Study** (2 hours)
-8. **Difference-in-Differences and Triple Differences** (6 hours)
-9. **Regression Discontinuity Design** (2 hours)
+6. **Panel Data and Event Study** (2 hours)
+7. **Difference-in-Differences and Triple Differences** (6 hours)
+8. **Regression Discontinuity Design** (2 hours)
 
 # Recommended Textbooks
 * [*Mostly Harmless Econometrics: An Empiricist's Companion*](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics) (Angrist & Pischke, 2009)
