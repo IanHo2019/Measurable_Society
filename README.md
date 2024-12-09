@@ -1,4 +1,4 @@
-<img src="./Course_Cover.jpg" title="Welcome to Measurable Society!" alt="Welcome to Measurable Society!" style="width:100%"/>
+![image](https://github.com/user-attachments/assets/c2873fe5-f6d0-4d1e-93ac-7a1241f7ceaa)![image](https://github.com/user-attachments/assets/df0e6b9d-be62-4ee9-983d-ca50d8a6f3cb)![image](https://github.com/user-attachments/assets/2659effc-9f1a-43e9-a249-73ee4360b45f)<img src="./Course_Cover.jpg" title="Welcome to Measurable Society!" alt="Welcome to Measurable Society!" style="width:100%"/>
 
 # Introduction
 "Measurable Society" is a public elective course at Chengdu Neusoft University, designed to show undergraduate students the basic statistical concepts, some popular inferential methods, and their applications in analyzing today's social issues.
@@ -36,8 +36,18 @@ Students interested in data analysis and social science, regardless of their maj
      * [How Does Alcohol Make You Drunk?](https://www.youtube.com/watch?v=gCrmFbgT37I)
      * [How Does Alcohol Cause Blackouts?](https://www.youtube.com/watch?v=rkXMdJY1SXQ)
 6. **Panel Data and Event Study** (2 hours)
-7. **Difference-in-Differences and Triple Differences** (6 hours)
-8. **Regression Discontinuity Design** (2 hours)
+   * Case Study: [*Gallagher (2014)*](https://www.jstor.org/stable/43189495) ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241202_Flood_Insurance.pdf))
+   * Video: [Flood Insurance Explained](https://www.youtube.com/watch?v=FV_cBjrHG9Q)
+8. **Difference-in-Differences and Triple Differences** (6 hours)
+   * Case Study: [*Di Tella & Schargrodsky (2004)*](https://www.jstor.org/stable/3592772) ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241209_Police_and_Crime.pdf))
+   * Case Study: [*Gruber, Lin & Yi (2023)*](https://doi.org/10.1016/j.jpubeco.2023.104999)
+   * Case Study: [*Bai, Jia & Yang (2023)*](https://doi.org/10.1093/qje/qjac041)
+   * Videos:
+     * [Chilling Account of the AMIA Terror Attack](https://www.youtube.com/watch?v=eKtbfRiX3nM)
+     * [The Path to a Healthy China](https://www.youtube.com/watch?v=Tt_LVaiQwkY)
+     * [The Taiping Rebellion & Second Opium War: Every Day](https://www.youtube.com/watch?v=ypAd9UQ4zmg)
+     * [Prosperous Suzhou: An 18th-Century Scroll Painting by Xu Yang](https://www.bilibili.com/video/BV1np4y1G7h3)
+10. **Regression Discontinuity Design** (2 hours)
 
 # Recommended Textbooks
 * [*Mostly Harmless Econometrics: An Empiricist's Companion*](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics) (Angrist & Pischke, 2009)
