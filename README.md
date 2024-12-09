@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c2873fe5-f6d0-4d1e-93ac-7a1241f7ceaa)![image](https://github.com/user-attachments/assets/df0e6b9d-be62-4ee9-983d-ca50d8a6f3cb)![image](https://github.com/user-attachments/assets/2659effc-9f1a-43e9-a249-73ee4360b45f)<img src="./Course_Cover.jpg" title="Welcome to Measurable Society!" alt="Welcome to Measurable Society!" style="width:100%"/>
+<img src="./Course_Cover.jpg" title="Welcome to Measurable Society!" alt="Welcome to Measurable Society!" style="width:100%"/>
 
 # Introduction
 "Measurable Society" is a public elective course at Chengdu Neusoft University, designed to show undergraduate students the basic statistical concepts, some popular inferential methods, and their applications in analyzing today's social issues.
