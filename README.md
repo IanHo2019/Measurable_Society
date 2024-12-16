@@ -40,7 +40,7 @@ Students interested in data analysis and social science, regardless of their maj
    * Video: [Flood Insurance Explained](https://www.youtube.com/watch?v=FV_cBjrHG9Q)
 8. **Difference-in-Differences and Triple Differences** (6 hours)
    * Case Study: [*Di Tella & Schargrodsky (2004)*](https://www.jstor.org/stable/3592772) ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241209_Police_and_Crime.pdf))
-   * Case Study: [*Gruber, Lin & Yi (2023)*](https://doi.org/10.1016/j.jpubeco.2023.104999)
+   * Case Study: [*Gruber, Lin & Yi (2023)*](https://doi.org/10.1016/j.jpubeco.2023.104999) ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241216_China_NCMS.pdf))
    * Case Study: [*Bai, Jia & Yang (2023)*](https://doi.org/10.1093/qje/qjac041)
    * Videos:
      * [Chilling Account of the AMIA Terror Attack](https://www.youtube.com/watch?v=eKtbfRiX3nM)
