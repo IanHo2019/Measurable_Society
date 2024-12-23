@@ -38,16 +38,20 @@ Students interested in data analysis and social science, regardless of their maj
 6. **Panel Data and Event Study** (2 hours)
    * Case Study: [*Gallagher (2014)*](https://www.jstor.org/stable/43189495) ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241202_Flood_Insurance.pdf))
    * Video: [Flood Insurance Explained](https://www.youtube.com/watch?v=FV_cBjrHG9Q)
-8. **Difference-in-Differences and Triple Differences** (6 hours)
+7. **Difference-in-Differences and Triple Differences** (6 hours)
    * Case Study: [*Di Tella & Schargrodsky (2004)*](https://www.jstor.org/stable/3592772) ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241209_Police_and_Crime.pdf))
    * Case Study: [*Gruber, Lin & Yi (2023)*](https://doi.org/10.1016/j.jpubeco.2023.104999) ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241216_China_NCMS.pdf))
-   * Case Study: [*Bai, Jia & Yang (2023)*](https://doi.org/10.1093/qje/qjac041)
+   * Case Study: [*Bai, Jia & Yang (2023)*](https://doi.org/10.1093/qje/qjac041) ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241223_Web_of_Elite.pdf))
    * Videos:
      * [Chilling Account of the AMIA Terror Attack](https://www.youtube.com/watch?v=eKtbfRiX3nM)
      * [The Path to a Healthy China](https://www.youtube.com/watch?v=Tt_LVaiQwkY)
      * [The Taiping Rebellion & Second Opium War: Every Day](https://www.youtube.com/watch?v=ypAd9UQ4zmg)
      * [Prosperous Suzhou: An 18th-Century Scroll Painting by Xu Yang](https://www.bilibili.com/video/BV1np4y1G7h3)
-10. **Regression Discontinuity Design** (2 hours)
+8. **Regression Discontinuity Design** (2 hours)
+   * Case Study: [*Bleemer & Mehta (2022)*](https://doi.org/10.1257/app.20200447)
+   * Videos:
+     * [8 Highest Paying Bachelor Degrees (2024)](https://www.youtube.com/watch?v=0JbBAvpa0Gk)
+     * [UCSB Campus Drone Tour](https://www.youtube.com/watch?v=rRB9i3kz3qM)
 
 # Recommended Textbooks
 * [*Mostly Harmless Econometrics: An Empiricist's Companion*](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics) (Angrist & Pischke, 2009)
