@@ -48,7 +48,7 @@ Students interested in data analysis and social science, regardless of their maj
      * [The Taiping Rebellion & Second Opium War: Every Day](https://www.youtube.com/watch?v=ypAd9UQ4zmg)
      * [Prosperous Suzhou: An 18th-Century Scroll Painting by Xu Yang](https://www.bilibili.com/video/BV1np4y1G7h3)
 8. **Regression Discontinuity Design** (2 hours)
-   * Case Study: [*Bleemer & Mehta (2022)*](https://doi.org/10.1257/app.20200447)
+   * Case Study: [*Bleemer & Mehta (2022)*](https://doi.org/10.1257/app.20200447) ([Slides](https://github.com/IanHo2019/Measurable_Society/blob/main/Slides/20241230_Econ_Major.pdf))
    * Videos:
      * [8 Highest Paying Bachelor Degrees (2024)](https://www.youtube.com/watch?v=0JbBAvpa0Gk)
      * [UCSB Campus Drone Tour](https://www.youtube.com/watch?v=rRB9i3kz3qM)
